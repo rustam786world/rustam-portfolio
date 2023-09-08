@@ -1,5 +1,6 @@
 "use client"; 
-  
+ 
+import TypingEffect from "../component/TypingEffect";
  import Image from "next/image"; 
  import React from "react"; 
  import { motion } from "framer-motion"; 
@@ -70,7 +71,7 @@
          building <span className="italic">websites & solve Data Sructures & Algorithm (DSA) problems</span>. Feel free to contact for {" "} 
          <span className="underline">Internships & Job Oppourtunities</span>. 
        </motion.h1> 
-  
+  <TypingEffect/>
        <motion.div 
          className="flex flex-col sm:flex-row items-center justify-center gap-2 px-4 text-lg font-medium" 
          initial={{ opacity: 0, y: 100 }} 
