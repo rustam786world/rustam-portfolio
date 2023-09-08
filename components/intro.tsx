@@ -34,8 +34,8 @@
              <Image
                   src="/rustam.jpeg" // Replace with the correct path to your image
                   alt="Rustam Ali" // Profile Foto
-                   width={400}
-                  height={600}
+                   width={800}
+                  height={1200}
                   quality={90}
                   priority={true}
   
