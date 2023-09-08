@@ -34,12 +34,12 @@
              <Image
                   src="/rustam.jpeg" // Replace with the correct path to your image
                   alt="Rustam Ali" // Profile Foto
-                   width={1200}
-                  height={1600}
+                   width={800}
+                  height={1200}
                   quality={90}
                   priority={true}
   
-                className="h-25 w-25 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
+                className="h-24 w-25 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
              />
            </motion.div> 
   
