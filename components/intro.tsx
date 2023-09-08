@@ -39,7 +39,7 @@
                   quality={90}
                   priority={true}
   
-                className="h-26 w-26 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
+                className="h-25 w-25 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
              />
            </motion.div> 
   
